@@ -1,0 +1,29 @@
+--- temp.out.norm	2026-05-16 23:32:11.092152800 +0300
++++ tests/out/test70.out.norm	2026-05-16 23:32:11.112152800 +0300
+@@ -3,7 +3,7 @@
+ OK
+ OK
+ OK
+-4 doc1 doc4 doc3
++3 doc1 doc4 doc3
+ adancime 2 doc0 doc3
+ adrenalina 4 doc1 doc2 doc3 doc4
+ aer 2 doc1 doc3
+@@ -312,7 +312,7 @@
+ OK
+ OK
+ 3 doc0 doc7 doc6
+-7 doc4 doc7 doc6 doc5 doc3
++5 doc4 doc7 doc6 doc5 doc3
+ OK
+ 5 doc2 doc4 doc8 doc6 doc5
+ adancime 6 doc0 doc3 doc5 doc6 doc7 doc8
+@@ -623,7 +623,7 @@
+ zgomot 7 doc2 doc3 doc4 doc5 doc6 doc7 doc8
+ 7 doc2 doc3 doc4 doc5 doc6 doc7 doc8
+ OK
+-8 doc4 doc8 doc0 doc7 doc6 doc5 doc3
++7 doc4 doc8 doc0 doc7 doc6 doc5 doc3
+ 2 doc9 doc4
+ OK
+ 3 doc9 doc4 doc8

@@ -1,0 +1,651 @@
+--- temp.out.norm	2026-05-16 22:47:08.852152800 +0300
++++ tests/out/test65.out.norm	2026-05-16 22:47:08.862152800 +0300
+@@ -235,7 +235,7 @@
+ marinari 2 doc1 doc4
+ masina 2 doc3 doc5
+ masini 5 doc0 doc1 doc3 doc4 doc5
+-mister 4 doc0 doc3 doc3 doc5
++mister 3 doc0 doc3 doc5
+ momeala 4 doc0 doc3 doc4 doc5
+ motor 3 doc0 doc3 doc5
+ munte 3 doc0 doc3 doc4
+@@ -386,7 +386,7 @@
+ marinari 2 doc1 doc4
+ masina 2 doc3 doc5
+ masini 5 doc0 doc1 doc3 doc4 doc5
+-mister 4 doc0 doc3 doc3 doc5
++mister 3 doc0 doc3 doc5
+ momeala 4 doc0 doc3 doc4 doc5
+ motor 3 doc0 doc3 doc5
+ munte 3 doc0 doc3 doc4
+@@ -504,7 +504,7 @@
+ curaj 4 doc0 doc3 doc6 doc7
+ curat 5 doc0 doc3 doc5 doc6 doc7
+ curent 5 doc0 doc3 doc5 doc6 doc7
+-dans 7 doc0 doc1 doc3 doc5 doc5 doc6 doc7
++dans 6 doc0 doc1 doc3 doc5 doc6 doc7
+ delta 4 doc0 doc4 doc6 doc7
+ dezvoltare 6 doc0 doc1 doc3 doc4 doc5 doc7
+ dig 6 doc0 doc1 doc3 doc4 doc5 doc7
+@@ -545,7 +545,7 @@
+ marinari 3 doc1 doc4 doc7
+ masina 4 doc3 doc5 doc6 doc7
+ masini 6 doc0 doc1 doc3 doc4 doc5 doc7
+-mister 6 doc0 doc3 doc3 doc5 doc6 doc7
++mister 5 doc0 doc3 doc5 doc6 doc7
+ momeala 5 doc0 doc3 doc4 doc5 doc7
+ motor 3 doc3 doc5 doc7
+ munte 5 doc0 doc3 doc4 doc6 doc7
+@@ -657,7 +657,7 @@
+ curaj 4 doc0 doc3 doc6 doc7
+ curat 5 doc0 doc3 doc5 doc6 doc7
+ curent 5 doc0 doc3 doc5 doc6 doc7
+-dans 7 doc0 doc1 doc3 doc5 doc5 doc6 doc7
++dans 6 doc0 doc1 doc3 doc5 doc6 doc7
+ delta 4 doc0 doc4 doc6 doc7
+ dezvoltare 6 doc0 doc1 doc3 doc4 doc5 doc7
+ dig 6 doc0 doc1 doc3 doc4 doc5 doc7
+@@ -698,7 +698,7 @@
+ marinari 3 doc1 doc4 doc7
+ masina 4 doc3 doc5 doc6 doc7
+ masini 6 doc0 doc1 doc3 doc4 doc5 doc7
+-mister 6 doc0 doc3 doc3 doc5 doc6 doc7
++mister 5 doc0 doc3 doc5 doc6 doc7
+ momeala 5 doc0 doc3 doc4 doc5 doc7
+ motor 3 doc3 doc5 doc7
+ munte 5 doc0 doc3 doc4 doc6 doc7
+@@ -718,7 +718,7 @@
+ pasari 5 doc0 doc1 doc3 doc5 doc7
+ patine 3 doc0 doc5 doc7
+ patura 5 doc0 doc1 doc3 doc5 doc7
+-peisaj 8 doc0 doc0 doc1 doc3 doc4 doc5 doc6 doc7
++peisaj 7 doc0 doc1 doc3 doc4 doc5 doc6 doc7
+ pelican 5 doc0 doc1 doc5 doc6 doc7
+ pescarusi 4 doc0 doc1 doc3 doc7
+ pescuit 7 doc0 doc1 doc3 doc4 doc5 doc6 doc7
+@@ -814,7 +814,7 @@
+ curaj 5 doc0 doc3 doc6 doc7 doc8
+ curat 6 doc0 doc3 doc5 doc6 doc7 doc8
+ curent 6 doc0 doc3 doc5 doc6 doc7 doc8
+-dans 7 doc0 doc1 doc3 doc5 doc5 doc6 doc7
++dans 6 doc0 doc1 doc3 doc5 doc6 doc7
+ delta 4 doc0 doc4 doc6 doc7
+ dezvoltare 7 doc0 doc1 doc3 doc4 doc5 doc7 doc8
+ dig 7 doc0 doc1 doc3 doc4 doc5 doc7 doc8
+@@ -854,8 +854,8 @@
+ marfa 4 doc1 doc3 doc6 doc7
+ marinari 4 doc1 doc4 doc7 doc8
+ masina 4 doc3 doc5 doc6 doc7
+-masini 8 doc0 doc1 doc3 doc4 doc4 doc5 doc7 doc8
+-mister 7 doc0 doc3 doc3 doc5 doc6 doc7 doc8
++masini 7 doc0 doc1 doc3 doc4 doc5 doc7 doc8
++mister 6 doc0 doc3 doc5 doc6 doc7 doc8
+ momeala 6 doc0 doc3 doc4 doc5 doc7 doc8
+ motor 3 doc3 doc5 doc7
+ munte 6 doc0 doc3 doc4 doc6 doc7 doc8
+@@ -875,7 +875,7 @@
+ pasari 6 doc0 doc1 doc3 doc5 doc7 doc8
+ patine 4 doc0 doc5 doc7 doc8
+ patura 6 doc0 doc1 doc3 doc5 doc7 doc8
+-peisaj 8 doc0 doc0 doc1 doc3 doc4 doc5 doc6 doc7
++peisaj 7 doc0 doc1 doc3 doc4 doc5 doc6 doc7
+ pelican 6 doc0 doc1 doc5 doc6 doc7 doc8
+ pescarusi 5 doc0 doc1 doc3 doc7 doc8
+ pescuit 8 doc0 doc1 doc3 doc4 doc5 doc6 doc7 doc8
+@@ -939,7 +939,7 @@
+ NOT FOUND
+ NOT FOUND
+ adancime 5 doc0 doc5 doc6 doc7 doc8
+-adrenalina 6 doc0 doc3 doc6 doc7 doc7 doc8
++adrenalina 5 doc0 doc3 doc6 doc7 doc8
+ aer 7 doc0 doc1 doc3 doc5 doc6 doc7 doc8
+ afaceri 6 doc0 doc1 doc3 doc6 doc7 doc8
+ aglomeratie 7 doc0 doc1 doc3 doc5 doc6 doc7 doc8
+@@ -969,7 +969,7 @@
+ curaj 5 doc0 doc3 doc6 doc7 doc8
+ curat 6 doc0 doc3 doc5 doc6 doc7 doc8
+ curent 6 doc0 doc3 doc5 doc6 doc7 doc8
+-dans 7 doc0 doc1 doc3 doc5 doc5 doc6 doc7
++dans 6 doc0 doc1 doc3 doc5 doc6 doc7
+ delta 3 doc0 doc6 doc7
+ dezvoltare 6 doc0 doc1 doc3 doc5 doc7 doc8
+ dig 6 doc0 doc1 doc3 doc5 doc7 doc8
+@@ -1010,7 +1010,7 @@
+ marinari 3 doc1 doc7 doc8
+ masina 4 doc3 doc5 doc6 doc7
+ masini 6 doc0 doc1 doc3 doc5 doc7 doc8
+-mister 7 doc0 doc3 doc3 doc5 doc6 doc7 doc8
++mister 6 doc0 doc3 doc5 doc6 doc7 doc8
+ momeala 5 doc0 doc3 doc5 doc7 doc8
+ motor 3 doc3 doc5 doc7
+ munte 5 doc0 doc3 doc6 doc7 doc8
+@@ -1030,7 +1030,7 @@
+ pasari 6 doc0 doc1 doc3 doc5 doc7 doc8
+ patine 4 doc0 doc5 doc7 doc8
+ patura 6 doc0 doc1 doc3 doc5 doc7 doc8
+-peisaj 7 doc0 doc0 doc1 doc3 doc5 doc6 doc7
++peisaj 6 doc0 doc1 doc3 doc5 doc6 doc7
+ pelican 6 doc0 doc1 doc5 doc6 doc7 doc8
+ pescarusi 5 doc0 doc1 doc3 doc7 doc8
+ pescuit 7 doc0 doc1 doc3 doc5 doc6 doc7 doc8
+@@ -1096,7 +1096,7 @@
+ NOT FOUND
+ OK
+ adancime 5 doc0 doc5 doc6 doc7 doc8
+-adrenalina 6 doc0 doc3 doc6 doc7 doc7 doc8
++adrenalina 5 doc0 doc3 doc6 doc7 doc8
+ aer 6 doc0 doc3 doc5 doc6 doc7 doc8
+ afaceri 5 doc0 doc3 doc6 doc7 doc8
+ aglomeratie 6 doc0 doc3 doc5 doc6 doc7 doc8
+@@ -1126,7 +1126,7 @@
+ curaj 5 doc0 doc3 doc6 doc7 doc8
+ curat 6 doc0 doc3 doc5 doc6 doc7 doc8
+ curent 6 doc0 doc3 doc5 doc6 doc7 doc8
+-dans 6 doc0 doc3 doc5 doc5 doc6 doc7
++dans 5 doc0 doc3 doc5 doc6 doc7
+ delta 3 doc0 doc6 doc7
+ dezvoltare 5 doc0 doc3 doc5 doc7 doc8
+ dig 5 doc0 doc3 doc5 doc7 doc8
+@@ -1167,7 +1167,7 @@
+ marinari 2 doc7 doc8
+ masina 4 doc3 doc5 doc6 doc7
+ masini 5 doc0 doc3 doc5 doc7 doc8
+-mister 7 doc0 doc3 doc3 doc5 doc6 doc7 doc8
++mister 6 doc0 doc3 doc5 doc6 doc7 doc8
+ momeala 5 doc0 doc3 doc5 doc7 doc8
+ motor 3 doc3 doc5 doc7
+ munte 5 doc0 doc3 doc6 doc7 doc8
+@@ -1187,7 +1187,7 @@
+ pasari 5 doc0 doc3 doc5 doc7 doc8
+ patine 4 doc0 doc5 doc7 doc8
+ patura 5 doc0 doc3 doc5 doc7 doc8
+-peisaj 6 doc0 doc0 doc3 doc5 doc6 doc7
++peisaj 5 doc0 doc3 doc5 doc6 doc7
+ pelican 5 doc0 doc5 doc6 doc7 doc8
+ pescarusi 4 doc0 doc3 doc7 doc8
+ pescuit 6 doc0 doc3 doc5 doc6 doc7 doc8
+@@ -1247,7 +1247,7 @@
+ zgomot 5 doc0 doc5 doc6 doc7 doc8
+ NOT FOUND
+ adancime 5 doc0 doc5 doc6 doc7 doc8
+-adrenalina 6 doc0 doc3 doc6 doc7 doc7 doc8
++adrenalina 5 doc0 doc3 doc6 doc7 doc8
+ aer 6 doc0 doc3 doc5 doc6 doc7 doc8
+ afaceri 5 doc0 doc3 doc6 doc7 doc8
+ aglomeratie 6 doc0 doc3 doc5 doc6 doc7 doc8
+@@ -1277,7 +1277,7 @@
+ curaj 5 doc0 doc3 doc6 doc7 doc8
+ curat 6 doc0 doc3 doc5 doc6 doc7 doc8
+ curent 6 doc0 doc3 doc5 doc6 doc7 doc8
+-dans 6 doc0 doc3 doc5 doc5 doc6 doc7
++dans 5 doc0 doc3 doc5 doc6 doc7
+ delta 3 doc0 doc6 doc7
+ dezvoltare 5 doc0 doc3 doc5 doc7 doc8
+ dig 5 doc0 doc3 doc5 doc7 doc8
+@@ -1318,7 +1318,7 @@
+ marinari 2 doc7 doc8
+ masina 4 doc3 doc5 doc6 doc7
+ masini 5 doc0 doc3 doc5 doc7 doc8
+-mister 7 doc0 doc3 doc3 doc5 doc6 doc7 doc8
++mister 6 doc0 doc3 doc5 doc6 doc7 doc8
+ momeala 5 doc0 doc3 doc5 doc7 doc8
+ motor 3 doc3 doc5 doc7
+ munte 5 doc0 doc3 doc6 doc7 doc8
+@@ -1338,7 +1338,7 @@
+ pasari 5 doc0 doc3 doc5 doc7 doc8
+ patine 4 doc0 doc5 doc7 doc8
+ patura 5 doc0 doc3 doc5 doc7 doc8
+-peisaj 6 doc0 doc0 doc3 doc5 doc6 doc7
++peisaj 5 doc0 doc3 doc5 doc6 doc7
+ pelican 5 doc0 doc5 doc6 doc7 doc8
+ pescarusi 4 doc0 doc3 doc7 doc8
+ pescuit 6 doc0 doc3 doc5 doc6 doc7 doc8
+@@ -1406,7 +1406,7 @@
+ OK
+ OK
+ adancime 6 doc0 doc5 doc6 doc7 doc8 doc9
+-adrenalina 7 doc0 doc3 doc6 doc7 doc7 doc8 doc9
++adrenalina 6 doc0 doc3 doc6 doc7 doc8 doc9
+ aer 7 doc0 doc3 doc5 doc6 doc7 doc8 doc9
+ afaceri 6 doc0 doc3 doc6 doc7 doc8 doc9
+ aglomeratie 7 doc0 doc3 doc5 doc6 doc7 doc8 doc9
+@@ -1436,7 +1436,7 @@
+ curaj 6 doc0 doc3 doc6 doc7 doc8 doc9
+ curat 7 doc0 doc3 doc5 doc6 doc7 doc8 doc9
+ curent 7 doc0 doc3 doc5 doc6 doc7 doc8 doc9
+-dans 7 doc0 doc3 doc5 doc5 doc6 doc7 doc9
++dans 6 doc0 doc3 doc5 doc6 doc7 doc9
+ delta 3 doc0 doc6 doc7
+ dezvoltare 5 doc0 doc3 doc5 doc7 doc8
+ dig 6 doc0 doc3 doc5 doc7 doc8 doc9
+@@ -1477,7 +1477,7 @@
+ marinari 3 doc7 doc8 doc9
+ masina 5 doc3 doc5 doc6 doc7 doc9
+ masini 6 doc0 doc3 doc5 doc7 doc8 doc9
+-mister 8 doc0 doc3 doc3 doc5 doc6 doc7 doc8 doc9
++mister 7 doc0 doc3 doc5 doc6 doc7 doc8 doc9
+ momeala 6 doc0 doc3 doc5 doc7 doc8 doc9
+ motor 4 doc3 doc5 doc7 doc9
+ munte 6 doc0 doc3 doc6 doc7 doc8 doc9
+@@ -1497,7 +1497,7 @@
+ pasari 6 doc0 doc3 doc5 doc7 doc8 doc9
+ patine 5 doc0 doc5 doc7 doc8 doc9
+ patura 6 doc0 doc3 doc5 doc7 doc8 doc9
+-peisaj 7 doc0 doc0 doc3 doc5 doc6 doc7 doc9
++peisaj 6 doc0 doc3 doc5 doc6 doc7 doc9
+ pelican 6 doc0 doc5 doc6 doc7 doc8 doc9
+ pescarusi 5 doc0 doc3 doc7 doc8 doc9
+ pescuit 7 doc0 doc3 doc5 doc6 doc7 doc8 doc9
+@@ -1543,12 +1543,12 @@
+ turist 6 doc0 doc3 doc5 doc6 doc7 doc9
+ umbra 7 doc0 doc3 doc5 doc6 doc7 doc8 doc9
+ umbrela 4 doc0 doc7 doc8 doc9
+-undita 8 doc0 doc0 doc3 doc5 doc6 doc7 doc8 doc9
++undita 7 doc0 doc3 doc5 doc6 doc7 doc8 doc9
+ urs 7 doc0 doc3 doc5 doc6 doc7 doc8 doc9
+ valuri 5 doc0 doc5 doc7 doc8 doc9
+ vant 3 doc0 doc5 doc8
+ vapor 7 doc0 doc3 doc5 doc6 doc7 doc8 doc9
+-vasle 7 doc0 doc3 doc6 doc6 doc7 doc8 doc9
++vasle 6 doc0 doc3 doc6 doc7 doc8 doc9
+ viitor 7 doc0 doc3 doc5 doc6 doc7 doc8 doc9
+ vin 6 doc0 doc3 doc5 doc7 doc8 doc9
+ violet 5 doc0 doc6 doc7 doc8 doc9
+@@ -1569,7 +1569,7 @@
+ OK
+ NOT FOUND
+ adancime 7 doc0 doc11 doc5 doc6 doc7 doc8 doc9
+-adrenalina 9 doc0 doc10 doc11 doc3 doc6 doc7 doc7 doc8 doc9
++adrenalina 8 doc0 doc10 doc11 doc3 doc6 doc7 doc8 doc9
+ aer 8 doc0 doc10 doc3 doc5 doc6 doc7 doc8 doc9
+ afaceri 6 doc0 doc3 doc6 doc7 doc8 doc9
+ aglomeratie 8 doc0 doc11 doc3 doc5 doc6 doc7 doc8 doc9
+@@ -1599,7 +1599,7 @@
+ curaj 8 doc0 doc10 doc11 doc3 doc6 doc7 doc8 doc9
+ curat 8 doc0 doc10 doc3 doc5 doc6 doc7 doc8 doc9
+ curent 9 doc0 doc10 doc11 doc3 doc5 doc6 doc7 doc8 doc9
+-dans 9 doc0 doc10 doc11 doc3 doc5 doc5 doc6 doc7 doc9
++dans 8 doc0 doc10 doc11 doc3 doc5 doc6 doc7 doc9
+ delta 5 doc0 doc10 doc11 doc6 doc7
+ dezvoltare 6 doc0 doc10 doc3 doc5 doc7 doc8
+ dig 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+@@ -1628,7 +1628,7 @@
+ istorie 6 doc0 doc10 doc3 doc5 doc7 doc8
+ izvor 5 doc0 doc3 doc5 doc7 doc9
+ lanterna 5 doc0 doc10 doc7 doc8 doc9
+-lemne 10 doc0 doc10 doc11 doc3 doc3 doc5 doc6 doc7 doc9 doc9
++lemne 8 doc0 doc10 doc11 doc3 doc5 doc6 doc7 doc9
+ liniste 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ lume 8 doc0 doc11 doc3 doc5 doc6 doc7 doc8 doc9
+ lumina 8 doc10 doc11 doc3 doc5 doc6 doc7 doc8 doc9
+@@ -1640,7 +1640,7 @@
+ marinari 5 doc10 doc11 doc7 doc8 doc9
+ masina 6 doc10 doc3 doc5 doc6 doc7 doc9
+ masini 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+-mister 10 doc0 doc10 doc11 doc3 doc3 doc5 doc6 doc7 doc8 doc9
++mister 9 doc0 doc10 doc11 doc3 doc5 doc6 doc7 doc8 doc9
+ momeala 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ motor 6 doc10 doc11 doc3 doc5 doc7 doc9
+ munte 7 doc0 doc10 doc3 doc6 doc7 doc8 doc9
+@@ -1660,12 +1660,12 @@
+ pasari 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ patine 7 doc0 doc10 doc11 doc5 doc7 doc8 doc9
+ patura 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+-peisaj 9 doc0 doc0 doc10 doc11 doc3 doc5 doc6 doc7 doc9
++peisaj 8 doc0 doc10 doc11 doc3 doc5 doc6 doc7 doc9
+ pelican 8 doc0 doc10 doc11 doc5 doc6 doc7 doc8 doc9
+ pescarusi 6 doc0 doc10 doc3 doc7 doc8 doc9
+ pescuit 9 doc0 doc10 doc11 doc3 doc5 doc6 doc7 doc8 doc9
+ peste 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+-pestera 9 doc0 doc10 doc11 doc3 doc6 doc7 doc7 doc8 doc9
++pestera 8 doc0 doc10 doc11 doc3 doc6 doc7 doc8 doc9
+ picaturi 8 doc0 doc10 doc11 doc5 doc6 doc7 doc8 doc9
+ plaja 7 doc0 doc10 doc3 doc5 doc6 doc7 doc8
+ plasa 5 doc0 doc11 doc5 doc7 doc9
+@@ -1706,12 +1706,12 @@
+ turist 8 doc0 doc10 doc11 doc3 doc5 doc6 doc7 doc9
+ umbra 9 doc0 doc10 doc11 doc3 doc5 doc6 doc7 doc8 doc9
+ umbrela 6 doc0 doc10 doc11 doc7 doc8 doc9
+-undita 10 doc0 doc0 doc10 doc11 doc3 doc5 doc6 doc7 doc8 doc9
++undita 9 doc0 doc10 doc11 doc3 doc5 doc6 doc7 doc8 doc9
+ urs 9 doc0 doc10 doc11 doc3 doc5 doc6 doc7 doc8 doc9
+ valuri 7 doc0 doc10 doc11 doc5 doc7 doc8 doc9
+ vant 4 doc0 doc10 doc5 doc8
+ vapor 8 doc0 doc10 doc3 doc5 doc6 doc7 doc8 doc9
+-vasle 9 doc0 doc10 doc11 doc3 doc6 doc6 doc7 doc8 doc9
++vasle 8 doc0 doc10 doc11 doc3 doc6 doc7 doc8 doc9
+ viitor 9 doc0 doc10 doc11 doc3 doc5 doc6 doc7 doc8 doc9
+ vin 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ violet 7 doc0 doc10 doc11 doc6 doc7 doc8 doc9
+@@ -1732,7 +1732,7 @@
+ OK
+ OK
+ adancime 6 doc0 doc11 doc5 doc7 doc8 doc9
+-adrenalina 8 doc0 doc10 doc11 doc3 doc7 doc7 doc8 doc9
++adrenalina 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ aer 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ afaceri 5 doc0 doc3 doc7 doc8 doc9
+ aglomeratie 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+@@ -1751,7 +1751,7 @@
+ busola 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ cabana 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ cabanier 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+-cald 7 doc0 doc10 doc10 doc11 doc3 doc7 doc9
++cald 6 doc0 doc10 doc11 doc3 doc7 doc9
+ campie 6 doc0 doc10 doc3 doc5 doc7 doc9
+ canale 7 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ ceai 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+@@ -1762,7 +1762,7 @@
+ curaj 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ curat 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ curent 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+-dans 8 doc0 doc10 doc11 doc3 doc5 doc5 doc7 doc9
++dans 7 doc0 doc10 doc11 doc3 doc5 doc7 doc9
+ delta 4 doc0 doc10 doc11 doc7
+ dezvoltare 6 doc0 doc10 doc3 doc5 doc7 doc8
+ dig 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+@@ -1791,9 +1791,9 @@
+ istorie 6 doc0 doc10 doc3 doc5 doc7 doc8
+ izvor 5 doc0 doc3 doc5 doc7 doc9
+ lanterna 5 doc0 doc10 doc7 doc8 doc9
+-lemne 9 doc0 doc10 doc11 doc3 doc3 doc5 doc7 doc9 doc9
++lemne 7 doc0 doc10 doc11 doc3 doc5 doc7 doc9
+ liniste 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+-lume 8 doc0 doc11 doc3 doc5 doc7 doc8 doc8 doc9
++lume 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+ lumina 7 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ lumini 6 doc0 doc10 doc11 doc5 doc7 doc9
+ lup 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+@@ -1803,7 +1803,7 @@
+ marinari 5 doc10 doc11 doc7 doc8 doc9
+ masina 5 doc10 doc3 doc5 doc7 doc9
+ masini 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+-mister 9 doc0 doc10 doc11 doc3 doc3 doc5 doc7 doc8 doc9
++mister 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ momeala 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ motor 6 doc10 doc11 doc3 doc5 doc7 doc9
+ munte 6 doc0 doc10 doc3 doc7 doc8 doc9
+@@ -1816,19 +1816,19 @@
+ oras 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ orientare 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ otel 6 doc0 doc10 doc11 doc3 doc5 doc7
+-padure 7 doc0 doc10 doc11 doc11 doc3 doc7 doc9
++padure 6 doc0 doc10 doc11 doc3 doc7 doc9
+ palmieri 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ pamant 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+ parcare 5 doc0 doc10 doc3 doc7 doc9
+ pasari 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ patine 7 doc0 doc10 doc11 doc5 doc7 doc8 doc9
+ patura 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+-peisaj 8 doc0 doc0 doc10 doc11 doc3 doc5 doc7 doc9
++peisaj 7 doc0 doc10 doc11 doc3 doc5 doc7 doc9
+ pelican 7 doc0 doc10 doc11 doc5 doc7 doc8 doc9
+ pescarusi 6 doc0 doc10 doc3 doc7 doc8 doc9
+ pescuit 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ peste 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+-pestera 8 doc0 doc10 doc11 doc3 doc7 doc7 doc8 doc9
++pestera 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ picaturi 7 doc0 doc10 doc11 doc5 doc7 doc8 doc9
+ plaja 6 doc0 doc10 doc3 doc5 doc7 doc8
+ plasa 5 doc0 doc11 doc5 doc7 doc9
+@@ -1869,7 +1869,7 @@
+ turist 7 doc0 doc10 doc11 doc3 doc5 doc7 doc9
+ umbra 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ umbrela 6 doc0 doc10 doc11 doc7 doc8 doc9
+-undita 9 doc0 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
++undita 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ urs 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ valuri 7 doc0 doc10 doc11 doc5 doc7 doc8 doc9
+ vant 4 doc0 doc10 doc5 doc8
+@@ -1883,7 +1883,7 @@
+ zgomot 6 doc0 doc11 doc5 doc7 doc8 doc9
+ OK
+ adancime 6 doc0 doc11 doc5 doc7 doc8 doc9
+-adrenalina 8 doc0 doc10 doc11 doc3 doc7 doc7 doc8 doc9
++adrenalina 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ aer 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ afaceri 5 doc0 doc3 doc7 doc8 doc9
+ aglomeratie 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+@@ -1902,7 +1902,7 @@
+ busola 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ cabana 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ cabanier 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+-cald 7 doc0 doc10 doc10 doc11 doc3 doc7 doc9
++cald 6 doc0 doc10 doc11 doc3 doc7 doc9
+ campie 6 doc0 doc10 doc3 doc5 doc7 doc9
+ canale 7 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ ceai 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+@@ -1913,7 +1913,7 @@
+ curaj 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ curat 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ curent 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+-dans 8 doc0 doc10 doc11 doc3 doc5 doc5 doc7 doc9
++dans 7 doc0 doc10 doc11 doc3 doc5 doc7 doc9
+ delta 4 doc0 doc10 doc11 doc7
+ dezvoltare 6 doc0 doc10 doc3 doc5 doc7 doc8
+ dig 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+@@ -1942,9 +1942,9 @@
+ istorie 6 doc0 doc10 doc3 doc5 doc7 doc8
+ izvor 5 doc0 doc3 doc5 doc7 doc9
+ lanterna 5 doc0 doc10 doc7 doc8 doc9
+-lemne 9 doc0 doc10 doc11 doc3 doc3 doc5 doc7 doc9 doc9
++lemne 7 doc0 doc10 doc11 doc3 doc5 doc7 doc9
+ liniste 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+-lume 8 doc0 doc11 doc3 doc5 doc7 doc8 doc8 doc9
++lume 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+ lumina 7 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ lumini 6 doc0 doc10 doc11 doc5 doc7 doc9
+ lup 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+@@ -1954,7 +1954,7 @@
+ marinari 5 doc10 doc11 doc7 doc8 doc9
+ masina 5 doc10 doc3 doc5 doc7 doc9
+ masini 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+-mister 9 doc0 doc10 doc11 doc3 doc3 doc5 doc7 doc8 doc9
++mister 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ momeala 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ motor 6 doc10 doc11 doc3 doc5 doc7 doc9
+ munte 6 doc0 doc10 doc3 doc7 doc8 doc9
+@@ -1967,19 +1967,19 @@
+ oras 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ orientare 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ otel 6 doc0 doc10 doc11 doc3 doc5 doc7
+-padure 7 doc0 doc10 doc11 doc11 doc3 doc7 doc9
++padure 6 doc0 doc10 doc11 doc3 doc7 doc9
+ palmieri 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ pamant 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+ parcare 5 doc0 doc10 doc3 doc7 doc9
+ pasari 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ patine 6 doc0 doc10 doc5 doc7 doc8 doc9
+ patura 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+-peisaj 8 doc0 doc0 doc10 doc11 doc3 doc5 doc7 doc9
++peisaj 7 doc0 doc10 doc11 doc3 doc5 doc7 doc9
+ pelican 7 doc0 doc10 doc11 doc5 doc7 doc8 doc9
+ pescarusi 6 doc0 doc10 doc3 doc7 doc8 doc9
+ pescuit 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ peste 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+-pestera 8 doc0 doc10 doc11 doc3 doc7 doc7 doc8 doc9
++pestera 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ picaturi 7 doc0 doc10 doc11 doc5 doc7 doc8 doc9
+ plaja 6 doc0 doc10 doc3 doc5 doc7 doc8
+ plasa 5 doc0 doc11 doc5 doc7 doc9
+@@ -2020,7 +2020,7 @@
+ turist 7 doc0 doc10 doc11 doc3 doc5 doc7 doc9
+ umbra 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ umbrela 6 doc0 doc10 doc11 doc7 doc8 doc9
+-undita 9 doc0 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
++undita 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ urs 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ valuri 7 doc0 doc10 doc11 doc5 doc7 doc8 doc9
+ vant 4 doc0 doc10 doc5 doc8
+@@ -2034,7 +2034,7 @@
+ zgomot 6 doc0 doc11 doc5 doc7 doc8 doc9
+ OK
+ adancime 6 doc0 doc11 doc5 doc7 doc8 doc9
+-adrenalina 8 doc0 doc10 doc11 doc3 doc7 doc7 doc8 doc9
++adrenalina 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ aer 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ afaceri 5 doc0 doc3 doc7 doc8 doc9
+ aglomeratie 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+@@ -2053,7 +2053,7 @@
+ busola 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ cabana 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ cabanier 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+-cald 7 doc0 doc10 doc10 doc11 doc3 doc7 doc9
++cald 6 doc0 doc10 doc11 doc3 doc7 doc9
+ campie 6 doc0 doc10 doc3 doc5 doc7 doc9
+ canale 7 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ ceai 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+@@ -2064,7 +2064,7 @@
+ curaj 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ curat 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ curent 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+-dans 8 doc0 doc10 doc11 doc3 doc5 doc5 doc7 doc9
++dans 7 doc0 doc10 doc11 doc3 doc5 doc7 doc9
+ delta 4 doc0 doc10 doc11 doc7
+ dezvoltare 6 doc0 doc10 doc3 doc5 doc7 doc8
+ dig 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+@@ -2093,9 +2093,9 @@
+ istorie 6 doc0 doc10 doc3 doc5 doc7 doc8
+ izvor 5 doc0 doc3 doc5 doc7 doc9
+ lanterna 5 doc0 doc10 doc7 doc8 doc9
+-lemne 9 doc0 doc10 doc11 doc3 doc3 doc5 doc7 doc9 doc9
++lemne 7 doc0 doc10 doc11 doc3 doc5 doc7 doc9
+ liniste 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+-lume 8 doc0 doc11 doc3 doc5 doc7 doc8 doc8 doc9
++lume 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+ lumina 7 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ lumini 6 doc0 doc10 doc11 doc5 doc7 doc9
+ lup 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+@@ -2105,7 +2105,7 @@
+ marinari 5 doc10 doc11 doc7 doc8 doc9
+ masina 5 doc10 doc3 doc5 doc7 doc9
+ masini 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+-mister 9 doc0 doc10 doc11 doc3 doc3 doc5 doc7 doc8 doc9
++mister 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ momeala 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ motor 6 doc10 doc11 doc3 doc5 doc7 doc9
+ munte 6 doc0 doc10 doc3 doc7 doc8 doc9
+@@ -2118,19 +2118,19 @@
+ oras 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ orientare 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ otel 6 doc0 doc10 doc11 doc3 doc5 doc7
+-padure 7 doc0 doc10 doc11 doc11 doc3 doc7 doc9
++padure 6 doc0 doc10 doc11 doc3 doc7 doc9
+ palmieri 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ pamant 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+ parcare 5 doc0 doc10 doc3 doc7 doc9
+ pasari 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ patine 6 doc0 doc10 doc5 doc7 doc8 doc9
+ patura 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+-peisaj 8 doc0 doc0 doc10 doc11 doc3 doc5 doc7 doc9
++peisaj 7 doc0 doc10 doc11 doc3 doc5 doc7 doc9
+ pelican 7 doc0 doc10 doc11 doc5 doc7 doc8 doc9
+ pescarusi 6 doc0 doc10 doc3 doc7 doc8 doc9
+ pescuit 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ peste 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+-pestera 8 doc0 doc10 doc11 doc3 doc7 doc7 doc8 doc9
++pestera 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ picaturi 7 doc0 doc10 doc11 doc5 doc7 doc8 doc9
+ plaja 6 doc0 doc10 doc3 doc5 doc7 doc8
+ plasa 5 doc0 doc11 doc5 doc7 doc9
+@@ -2171,7 +2171,7 @@
+ turist 7 doc0 doc10 doc11 doc3 doc5 doc7 doc9
+ umbra 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ umbrela 6 doc0 doc10 doc11 doc7 doc8 doc9
+-undita 9 doc0 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
++undita 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ urs 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ valuri 7 doc0 doc10 doc11 doc5 doc7 doc8 doc9
+ vant 4 doc0 doc10 doc5 doc8
+@@ -2190,7 +2190,7 @@
+ 6 doc0 doc10 doc11 doc7 doc8 doc9
+ OK
+ adancime 6 doc0 doc11 doc5 doc7 doc8 doc9
+-adrenalina 8 doc0 doc10 doc11 doc3 doc7 doc7 doc8 doc9
++adrenalina 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ aer 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ afaceri 6 doc0 doc10 doc3 doc7 doc8 doc9
+ aglomeratie 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+@@ -2209,7 +2209,7 @@
+ busola 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ cabana 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ cabanier 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+-cald 7 doc0 doc10 doc10 doc11 doc3 doc7 doc9
++cald 6 doc0 doc10 doc11 doc3 doc7 doc9
+ campie 6 doc0 doc10 doc3 doc5 doc7 doc9
+ canale 7 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ ceai 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+@@ -2220,7 +2220,7 @@
+ curaj 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ curat 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ curent 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+-dans 8 doc0 doc10 doc11 doc3 doc5 doc5 doc7 doc9
++dans 7 doc0 doc10 doc11 doc3 doc5 doc7 doc9
+ delta 4 doc0 doc10 doc11 doc7
+ dezvoltare 6 doc0 doc10 doc3 doc5 doc7 doc8
+ dig 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+@@ -2228,7 +2228,7 @@
+ drum 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ echipa 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ ecou 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+-efort 9 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc8 doc9
++efort 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ emotie 7 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ explorare 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ faleza 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+@@ -2249,9 +2249,9 @@
+ istorie 6 doc0 doc10 doc3 doc5 doc7 doc8
+ izvor 5 doc0 doc3 doc5 doc7 doc9
+ lanterna 5 doc0 doc10 doc7 doc8 doc9
+-lemne 9 doc0 doc10 doc11 doc3 doc3 doc5 doc7 doc9 doc9
++lemne 7 doc0 doc10 doc11 doc3 doc5 doc7 doc9
+ liniste 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+-lume 8 doc0 doc11 doc3 doc5 doc7 doc8 doc8 doc9
++lume 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+ lumina 7 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ lumini 6 doc0 doc10 doc11 doc5 doc7 doc9
+ lup 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+@@ -2261,7 +2261,7 @@
+ marinari 5 doc10 doc11 doc7 doc8 doc9
+ masina 5 doc10 doc3 doc5 doc7 doc9
+ masini 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+-mister 9 doc0 doc10 doc11 doc3 doc3 doc5 doc7 doc8 doc9
++mister 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ momeala 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ motor 6 doc10 doc11 doc3 doc5 doc7 doc9
+ munte 6 doc0 doc10 doc3 doc7 doc8 doc9
+@@ -2274,19 +2274,19 @@
+ oras 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ orientare 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ otel 6 doc0 doc10 doc11 doc3 doc5 doc7
+-padure 7 doc0 doc10 doc11 doc11 doc3 doc7 doc9
++padure 6 doc0 doc10 doc11 doc3 doc7 doc9
+ palmieri 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ pamant 7 doc0 doc11 doc3 doc5 doc7 doc8 doc9
+ parcare 5 doc0 doc10 doc3 doc7 doc9
+ pasari 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ patine 6 doc0 doc10 doc5 doc7 doc8 doc9
+ patura 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+-peisaj 8 doc0 doc0 doc10 doc11 doc3 doc5 doc7 doc9
++peisaj 7 doc0 doc10 doc11 doc3 doc5 doc7 doc9
+ pelican 7 doc0 doc10 doc11 doc5 doc7 doc8 doc9
+ pescarusi 6 doc0 doc10 doc3 doc7 doc8 doc9
+ pescuit 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ peste 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+-pestera 8 doc0 doc10 doc11 doc3 doc7 doc7 doc8 doc9
++pestera 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9
+ picaturi 7 doc0 doc10 doc11 doc5 doc7 doc8 doc9
+ plaja 6 doc0 doc10 doc3 doc5 doc7 doc8
+ plasa 5 doc0 doc11 doc5 doc7 doc9
+@@ -2327,9 +2327,9 @@
+ turist 7 doc0 doc10 doc11 doc3 doc5 doc7 doc9
+ umbra 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ umbrela 6 doc0 doc10 doc11 doc7 doc8 doc9
+-undita 9 doc0 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
++undita 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+ urs 8 doc0 doc10 doc11 doc3 doc5 doc7 doc8 doc9
+-valuri 8 doc0 doc10 doc11 doc11 doc5 doc7 doc8 doc9
++valuri 7 doc0 doc10 doc11 doc5 doc7 doc8 doc9
+ vant 4 doc0 doc10 doc5 doc8
+ vapor 7 doc0 doc10 doc3 doc5 doc7 doc8 doc9
+ vasle 7 doc0 doc10 doc11 doc3 doc7 doc8 doc9

@@ -1,0 +1,11 @@
+--- temp.out.norm	2026-05-17 00:27:36.742152800 +0300
++++ tests/out/test78.out.norm	2026-05-17 00:27:36.752152800 +0300
+@@ -102,7 +102,7 @@
+ 1 c1
+ 4 c0 c1 c4 c7
+ OK
+-6 c0 c0 c1 c4 c7 c7
++4 c0 c1 c4 c7
+ 2 c7 c1
+ abis 1 c0
+ algoritm 4 c1 c2 c5 c7

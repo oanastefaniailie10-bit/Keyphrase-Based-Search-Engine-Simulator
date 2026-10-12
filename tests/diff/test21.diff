@@ -1,0 +1,29 @@
+--- temp.out.norm	2026-05-16 22:47:07.922152800 +0300
++++ tests/out/test21.out.norm	2026-05-16 22:47:07.922152800 +0300
+@@ -11,7 +11,7 @@
+ blacksmith 1 Brok
+ dwarf 1 Brok
+ giant 2 Atreus Mimir
+-god 3 Atreus Kratos Kratos
++god 2 Atreus Kratos
+ goddess 1 Freya
+ loki 1 Atreus
+ rage 1 Kratos
+@@ -19,7 +19,7 @@
+ spartan 1 Kratos
+ valkyrie 1 Freya
+ wisdom 1 Mimir
+-3 Atreus Kratos Kratos
++2 Atreus Kratos
+ 2 Atreus Mimir
+ OK
+ EMPTY
+@@ -27,7 +27,7 @@
+ blacksmith 1 Brok
+ dwarf 1 Brok
+ giant 2 Atreus Mimir
+-god 3 Atreus Kratos Kratos
++god 2 Atreus Kratos
+ goddess 1 Freya
+ loki 1 Atreus
+ rage 1 Kratos

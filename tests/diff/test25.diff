@@ -1,0 +1,10 @@
+--- temp.out.norm	2026-05-16 22:32:50.302152800 +0300
++++ tests/out/test25.out.norm	2026-05-16 22:32:50.302152800 +0300
+@@ -20,6 +20,7 @@
+ chief 1 HopperChief
+ hawkins 5 DustinHenderson ElevenHopper HopperChief MaxMayfield MikeWheeler
+ hero 1 ElevenHopper
++party 2 DustinHenderson MaxMayfield
+ psychic 1 ElevenHopper
+ survivor 1 HopperChief
+ upsidedown 2 ElevenHopper HopperChief

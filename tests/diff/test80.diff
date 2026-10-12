@@ -1,0 +1,20 @@
+--- temp.out.norm	2026-05-17 00:27:36.782152800 +0300
++++ tests/out/test80.out.norm	2026-05-17 00:27:36.792152800 +0300
+@@ -98,7 +98,7 @@
+ zbor 1 d4
+ 2 d0 d4
+ 3 d0 d5 d4
+-17 d0 d0 d0 d0 d0 d2 d2 d2 d2 d4 d4 d4 d4 d5 d5 d5 d5
++4 d0 d2 d4 d5
+ OK
+ NOT FOUND
+ 3 d2 d4 d6
+@@ -202,7 +202,7 @@
+ OK
+ 3 d0 d7 d8
+ 2 d0 d5
+-20 d0 d0 d0 d0 d0 d2 d2 d2 d2 d5 d5 d5 d5 d7 d7 d7 d8 d8 d8 d8
++5 d0 d2 d5 d7 d8
+ OK
+ 4 d0 d5 d7 d8
+ 4 d0 d2 d5 d7

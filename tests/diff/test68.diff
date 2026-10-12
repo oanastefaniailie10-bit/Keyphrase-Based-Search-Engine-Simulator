@@ -1,0 +1,18 @@
+--- temp.out.norm	2026-05-16 23:32:11.042152800 +0300
++++ tests/out/test68.out.norm	2026-05-16 23:32:11.042152800 +0300
+@@ -22,12 +22,12 @@
+ OK
+ OK
+ OK
+-5 inception matrix avatar tenet
++4 inception matrix avatar tenet
+ 2 titanic morometii
+-10 titanic matrix morometii gladiatorul dacii
++5 titanic matrix morometii gladiatorul dacii
+ 1 gladiatorul
+ OK
+-4 titanic gladiatorul
++2 titanic gladiatorul
+ 1 columna
+ 4 dacii gladiatorul matrix titanic
+ actiune 1 matrix

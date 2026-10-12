@@ -1,0 +1,299 @@
+--- temp.out.norm	2026-05-16 22:47:08.732152800 +0300
++++ tests/out/test60.out.norm	2026-05-16 22:47:08.742152800 +0300
+@@ -28,7 +28,7 @@
+ ancora 12 doc0 doc1 doc10 doc11 doc12 doc13 doc2 doc4 doc5 doc6 doc8 doc9
+ apa 10 doc0 doc11 doc12 doc13 doc2 doc4 doc5 doc6 doc7 doc9
+ aventura 14 doc0 doc1 doc10 doc11 doc12 doc13 doc2 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+-bani 12 doc0 doc1 doc10 doc12 doc13 doc2 doc3 doc4 doc4 doc7 doc8 doc9
++bani 11 doc0 doc1 doc10 doc12 doc13 doc2 doc3 doc4 doc7 doc8 doc9
+ barca 9 doc0 doc1 doc10 doc12 doc13 doc2 doc4 doc5 doc6
+ barcagiu 12 doc0 doc1 doc11 doc12 doc13 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ baterii 12 doc0 doc1 doc10 doc11 doc12 doc2 doc4 doc5 doc6 doc7 doc8 doc9
+@@ -37,7 +37,7 @@
+ brad 9 doc0 doc1 doc10 doc12 doc3 doc4 doc7 doc8 doc9
+ busola 11 doc0 doc10 doc11 doc12 doc13 doc2 doc3 doc4 doc6 doc7 doc9
+ cabana 10 doc0 doc10 doc11 doc12 doc13 doc4 doc5 doc6 doc7 doc8
+-cabanier 14 doc0 doc1 doc10 doc11 doc12 doc2 doc3 doc4 doc4 doc5 doc6 doc7 doc8 doc9
++cabanier 13 doc0 doc1 doc10 doc11 doc12 doc2 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ cald 10 doc0 doc1 doc10 doc11 doc13 doc2 doc3 doc5 doc6 doc8
+ campie 11 doc0 doc1 doc10 doc11 doc13 doc2 doc3 doc4 doc6 doc7 doc9
+ canale 10 doc1 doc10 doc11 doc13 doc2 doc3 doc5 doc6 doc7 doc8
+@@ -53,7 +53,7 @@
+ delta 10 doc0 doc1 doc11 doc12 doc13 doc3 doc4 doc6 doc7 doc9
+ dezvoltare 13 doc0 doc1 doc10 doc11 doc12 doc13 doc2 doc3 doc4 doc5 doc6 doc7 doc9
+ dig 10 doc0 doc1 doc10 doc11 doc12 doc2 doc3 doc7 doc8 doc9
+-distractie 13 doc0 doc1 doc10 doc11 doc12 doc2 doc3 doc3 doc5 doc6 doc7 doc8 doc9
++distractie 12 doc0 doc1 doc10 doc11 doc12 doc2 doc3 doc5 doc6 doc7 doc8 doc9
+ drum 10 doc1 doc11 doc12 doc13 doc2 doc4 doc6 doc7 doc8 doc9
+ echipa 12 doc0 doc1 doc10 doc11 doc12 doc13 doc4 doc5 doc6 doc7 doc8 doc9
+ ecou 10 doc1 doc10 doc11 doc12 doc13 doc2 doc5 doc7 doc8 doc9
+@@ -179,7 +179,7 @@
+ ancora 12 doc0 doc1 doc10 doc11 doc12 doc13 doc2 doc4 doc5 doc6 doc8 doc9
+ apa 10 doc0 doc11 doc12 doc13 doc2 doc4 doc5 doc6 doc7 doc9
+ aventura 14 doc0 doc1 doc10 doc11 doc12 doc13 doc2 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+-bani 12 doc0 doc1 doc10 doc12 doc13 doc2 doc3 doc4 doc4 doc7 doc8 doc9
++bani 11 doc0 doc1 doc10 doc12 doc13 doc2 doc3 doc4 doc7 doc8 doc9
+ barca 9 doc0 doc1 doc10 doc12 doc13 doc2 doc4 doc5 doc6
+ barcagiu 12 doc0 doc1 doc11 doc12 doc13 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ baterii 12 doc0 doc1 doc10 doc11 doc12 doc2 doc4 doc5 doc6 doc7 doc8 doc9
+@@ -188,7 +188,7 @@
+ brad 9 doc0 doc1 doc10 doc12 doc3 doc4 doc7 doc8 doc9
+ busola 11 doc0 doc10 doc11 doc12 doc13 doc2 doc3 doc4 doc6 doc7 doc9
+ cabana 10 doc0 doc10 doc11 doc12 doc13 doc4 doc5 doc6 doc7 doc8
+-cabanier 14 doc0 doc1 doc10 doc11 doc12 doc2 doc3 doc4 doc4 doc5 doc6 doc7 doc8 doc9
++cabanier 13 doc0 doc1 doc10 doc11 doc12 doc2 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ cald 10 doc0 doc1 doc10 doc11 doc13 doc2 doc3 doc5 doc6 doc8
+ campie 11 doc0 doc1 doc10 doc11 doc13 doc2 doc3 doc4 doc6 doc7 doc9
+ canale 10 doc1 doc10 doc11 doc13 doc2 doc3 doc5 doc6 doc7 doc8
+@@ -204,7 +204,7 @@
+ delta 10 doc0 doc1 doc11 doc12 doc13 doc3 doc4 doc6 doc7 doc9
+ dezvoltare 13 doc0 doc1 doc10 doc11 doc12 doc13 doc2 doc3 doc4 doc5 doc6 doc7 doc9
+ dig 9 doc0 doc1 doc10 doc11 doc12 doc2 doc3 doc7 doc9
+-distractie 13 doc0 doc1 doc10 doc11 doc12 doc2 doc3 doc3 doc5 doc6 doc7 doc8 doc9
++distractie 12 doc0 doc1 doc10 doc11 doc12 doc2 doc3 doc5 doc6 doc7 doc8 doc9
+ drum 10 doc1 doc11 doc12 doc13 doc2 doc4 doc6 doc7 doc8 doc9
+ echipa 12 doc0 doc1 doc10 doc11 doc12 doc13 doc4 doc5 doc6 doc7 doc8 doc9
+ ecou 10 doc1 doc10 doc11 doc12 doc13 doc2 doc5 doc7 doc8 doc9
+@@ -331,7 +331,7 @@
+ ancora 12 doc0 doc1 doc10 doc11 doc12 doc13 doc2 doc4 doc5 doc6 doc8 doc9
+ apa 10 doc0 doc11 doc12 doc13 doc2 doc4 doc5 doc6 doc7 doc9
+ aventura 14 doc0 doc1 doc10 doc11 doc12 doc13 doc2 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+-bani 12 doc0 doc1 doc10 doc12 doc13 doc2 doc3 doc4 doc4 doc7 doc8 doc9
++bani 11 doc0 doc1 doc10 doc12 doc13 doc2 doc3 doc4 doc7 doc8 doc9
+ barca 9 doc0 doc1 doc10 doc12 doc13 doc2 doc4 doc5 doc6
+ barcagiu 12 doc0 doc1 doc11 doc12 doc13 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ baterii 12 doc0 doc1 doc10 doc11 doc12 doc2 doc4 doc5 doc6 doc7 doc8 doc9
+@@ -340,7 +340,7 @@
+ brad 9 doc0 doc1 doc10 doc12 doc3 doc4 doc7 doc8 doc9
+ busola 11 doc0 doc10 doc11 doc12 doc13 doc2 doc3 doc4 doc6 doc7 doc9
+ cabana 10 doc0 doc10 doc11 doc12 doc13 doc4 doc5 doc6 doc7 doc8
+-cabanier 14 doc0 doc1 doc10 doc11 doc12 doc2 doc3 doc4 doc4 doc5 doc6 doc7 doc8 doc9
++cabanier 13 doc0 doc1 doc10 doc11 doc12 doc2 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ cald 10 doc0 doc1 doc10 doc11 doc13 doc2 doc3 doc5 doc6 doc8
+ campie 11 doc0 doc1 doc10 doc11 doc13 doc2 doc3 doc4 doc6 doc7 doc9
+ canale 10 doc1 doc10 doc11 doc13 doc2 doc3 doc5 doc6 doc7 doc8
+@@ -356,7 +356,7 @@
+ delta 10 doc0 doc1 doc11 doc12 doc13 doc3 doc4 doc6 doc7 doc9
+ dezvoltare 13 doc0 doc1 doc10 doc11 doc12 doc13 doc2 doc3 doc4 doc5 doc6 doc7 doc9
+ dig 9 doc0 doc1 doc10 doc11 doc12 doc2 doc3 doc7 doc9
+-distractie 13 doc0 doc1 doc10 doc11 doc12 doc2 doc3 doc3 doc5 doc6 doc7 doc8 doc9
++distractie 12 doc0 doc1 doc10 doc11 doc12 doc2 doc3 doc5 doc6 doc7 doc8 doc9
+ drum 9 doc1 doc11 doc12 doc13 doc4 doc6 doc7 doc8 doc9
+ echipa 12 doc0 doc1 doc10 doc11 doc12 doc13 doc4 doc5 doc6 doc7 doc8 doc9
+ ecou 10 doc1 doc10 doc11 doc12 doc13 doc2 doc5 doc7 doc8 doc9
+@@ -437,7 +437,7 @@
+ relaxare 12 doc0 doc1 doc11 doc12 doc13 doc2 doc3 doc4 doc6 doc7 doc8 doc9
+ rucsac 13 doc0 doc1 doc10 doc11 doc12 doc13 doc2 doc3 doc5 doc6 doc7 doc8 doc9
+ salcie 9 doc0 doc11 doc12 doc3 doc4 doc5 doc6 doc8 doc9
+-sanie 10 doc0 doc1 doc10 doc12 doc13 doc2 doc3 doc3 doc7 doc9
++sanie 9 doc0 doc1 doc10 doc12 doc13 doc2 doc3 doc7 doc9
+ sare 10 doc0 doc11 doc12 doc13 doc2 doc3 doc4 doc6 doc7 doc8
+ schi 9 doc0 doc1 doc11 doc12 doc4 doc5 doc6 doc7 doc8
+ scoici 7 doc0 doc1 doc10 doc12 doc4 doc8 doc9
+@@ -489,7 +489,7 @@
+ ancora 13 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc2 doc4 doc5 doc6 doc8 doc9
+ apa 11 doc0 doc12 doc13 doc14 doc15 doc2 doc4 doc5 doc6 doc7 doc9
+ aventura 14 doc0 doc1 doc10 doc12 doc13 doc15 doc2 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+-bani 14 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc2 doc3 doc4 doc4 doc7 doc8 doc9
++bani 13 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc2 doc3 doc4 doc7 doc8 doc9
+ barca 10 doc0 doc1 doc10 doc12 doc13 doc14 doc2 doc4 doc5 doc6
+ barcagiu 12 doc0 doc1 doc12 doc13 doc15 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ baterii 12 doc0 doc1 doc10 doc12 doc14 doc2 doc4 doc5 doc6 doc7 doc8 doc9
+@@ -498,7 +498,7 @@
+ brad 11 doc0 doc1 doc10 doc12 doc14 doc15 doc3 doc4 doc7 doc8 doc9
+ busola 11 doc0 doc10 doc12 doc13 doc15 doc2 doc3 doc4 doc6 doc7 doc9
+ cabana 10 doc0 doc10 doc12 doc13 doc15 doc4 doc5 doc6 doc7 doc8
+-cabanier 14 doc0 doc1 doc10 doc12 doc14 doc2 doc3 doc4 doc4 doc5 doc6 doc7 doc8 doc9
++cabanier 13 doc0 doc1 doc10 doc12 doc14 doc2 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ cald 11 doc0 doc1 doc10 doc13 doc14 doc15 doc2 doc3 doc5 doc6 doc8
+ campie 12 doc0 doc1 doc10 doc13 doc14 doc15 doc2 doc3 doc4 doc6 doc7 doc9
+ canale 10 doc1 doc10 doc13 doc15 doc2 doc3 doc5 doc6 doc7 doc8
+@@ -514,7 +514,7 @@
+ delta 11 doc0 doc1 doc12 doc13 doc14 doc15 doc3 doc4 doc6 doc7 doc9
+ dezvoltare 14 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc2 doc3 doc4 doc5 doc6 doc7 doc9
+ dig 9 doc0 doc1 doc10 doc12 doc14 doc2 doc3 doc7 doc9
+-distractie 13 doc0 doc1 doc10 doc12 doc14 doc2 doc3 doc3 doc5 doc6 doc7 doc8 doc9
++distractie 12 doc0 doc1 doc10 doc12 doc14 doc2 doc3 doc5 doc6 doc7 doc8 doc9
+ drum 9 doc1 doc12 doc13 doc14 doc4 doc6 doc7 doc8 doc9
+ echipa 13 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc4 doc5 doc6 doc7 doc8 doc9
+ ecou 11 doc1 doc10 doc12 doc13 doc14 doc15 doc2 doc5 doc7 doc8 doc9
+@@ -525,7 +525,7 @@
+ floare 11 doc0 doc10 doc12 doc13 doc14 doc2 doc4 doc5 doc6 doc8 doc9
+ fluviu 13 doc0 doc1 doc10 doc12 doc13 doc14 doc2 doc3 doc4 doc5 doc7 doc8 doc9
+ foc 12 doc0 doc1 doc10 doc13 doc14 doc15 doc3 doc5 doc6 doc7 doc8 doc9
+-formatiuni 13 doc1 doc10 doc13 doc14 doc14 doc15 doc2 doc3 doc5 doc6 doc7 doc8 doc9
++formatiuni 12 doc1 doc10 doc13 doc14 doc15 doc2 doc3 doc5 doc6 doc7 doc8 doc9
+ frica 15 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc2 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ frig 9 doc0 doc1 doc10 doc12 doc13 doc14 doc2 doc6 doc7
+ gheata 10 doc0 doc10 doc12 doc14 doc15 doc3 doc4 doc6 doc7 doc8
+@@ -537,7 +537,7 @@
+ insula 10 doc0 doc12 doc13 doc14 doc2 doc3 doc6 doc7 doc8 doc9
+ intuneric 12 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc2 doc4 doc6 doc8 doc9
+ istorie 13 doc0 doc1 doc10 doc12 doc13 doc14 doc2 doc4 doc5 doc6 doc7 doc8 doc9
+-izvor 12 doc0 doc1 doc12 doc13 doc14 doc15 doc2 doc5 doc5 doc6 doc7 doc8
++izvor 11 doc0 doc1 doc12 doc13 doc14 doc15 doc2 doc5 doc6 doc7 doc8
+ lanterna 11 doc0 doc1 doc12 doc14 doc15 doc3 doc4 doc5 doc6 doc7 doc9
+ lemne 13 doc0 doc1 doc10 doc12 doc14 doc15 doc2 doc3 doc4 doc5 doc6 doc7 doc9
+ liniste 13 doc0 doc10 doc12 doc13 doc14 doc15 doc2 doc3 doc4 doc5 doc6 doc8 doc9
+@@ -595,7 +595,7 @@
+ relaxare 13 doc0 doc1 doc12 doc13 doc14 doc15 doc2 doc3 doc4 doc6 doc7 doc8 doc9
+ rucsac 14 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc2 doc3 doc5 doc6 doc7 doc8 doc9
+ salcie 9 doc0 doc12 doc15 doc3 doc4 doc5 doc6 doc8 doc9
+-sanie 11 doc0 doc1 doc10 doc12 doc13 doc14 doc2 doc3 doc3 doc7 doc9
++sanie 10 doc0 doc1 doc10 doc12 doc13 doc14 doc2 doc3 doc7 doc9
+ sare 11 doc0 doc12 doc13 doc14 doc15 doc2 doc3 doc4 doc6 doc7 doc8
+ schi 10 doc0 doc1 doc12 doc14 doc15 doc4 doc5 doc6 doc7 doc8
+ scoici 9 doc0 doc1 doc10 doc12 doc14 doc15 doc4 doc8 doc9
+@@ -642,7 +642,7 @@
+ ancora 14 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc2 doc4 doc5 doc6 doc8 doc9
+ apa 12 doc0 doc12 doc13 doc14 doc15 doc16 doc2 doc4 doc5 doc6 doc7 doc9
+ aventura 15 doc0 doc1 doc10 doc12 doc13 doc15 doc16 doc2 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+-bani 15 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc2 doc3 doc4 doc4 doc7 doc8 doc9
++bani 14 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc2 doc3 doc4 doc7 doc8 doc9
+ barca 11 doc0 doc1 doc10 doc12 doc13 doc14 doc16 doc2 doc4 doc5 doc6
+ barcagiu 13 doc0 doc1 doc12 doc13 doc15 doc16 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ baterii 13 doc0 doc1 doc10 doc12 doc14 doc16 doc2 doc4 doc5 doc6 doc7 doc8 doc9
+@@ -651,7 +651,7 @@
+ brad 12 doc0 doc1 doc10 doc12 doc14 doc15 doc16 doc3 doc4 doc7 doc8 doc9
+ busola 12 doc0 doc10 doc12 doc13 doc15 doc16 doc2 doc3 doc4 doc6 doc7 doc9
+ cabana 11 doc0 doc10 doc12 doc13 doc15 doc16 doc4 doc5 doc6 doc7 doc8
+-cabanier 14 doc0 doc1 doc10 doc12 doc14 doc2 doc3 doc4 doc4 doc5 doc6 doc7 doc8 doc9
++cabanier 13 doc0 doc1 doc10 doc12 doc14 doc2 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ cald 12 doc0 doc1 doc10 doc13 doc14 doc15 doc16 doc2 doc3 doc5 doc6 doc8
+ campie 13 doc0 doc1 doc10 doc13 doc14 doc15 doc16 doc2 doc3 doc4 doc6 doc7 doc9
+ canale 11 doc1 doc10 doc13 doc15 doc16 doc2 doc3 doc5 doc6 doc7 doc8
+@@ -667,7 +667,7 @@
+ delta 12 doc0 doc1 doc12 doc13 doc14 doc15 doc16 doc3 doc4 doc6 doc7 doc9
+ dezvoltare 15 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc2 doc3 doc4 doc5 doc6 doc7 doc9
+ dig 10 doc0 doc1 doc10 doc12 doc14 doc16 doc2 doc3 doc7 doc9
+-distractie 14 doc0 doc1 doc10 doc12 doc14 doc16 doc2 doc3 doc3 doc5 doc6 doc7 doc8 doc9
++distractie 13 doc0 doc1 doc10 doc12 doc14 doc16 doc2 doc3 doc5 doc6 doc7 doc8 doc9
+ drum 10 doc1 doc12 doc13 doc14 doc16 doc4 doc6 doc7 doc8 doc9
+ echipa 14 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc4 doc5 doc6 doc7 doc8 doc9
+ ecou 12 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc2 doc5 doc7 doc8 doc9
+@@ -678,7 +678,7 @@
+ floare 12 doc0 doc10 doc12 doc13 doc14 doc16 doc2 doc4 doc5 doc6 doc8 doc9
+ fluviu 14 doc0 doc1 doc10 doc12 doc13 doc14 doc16 doc2 doc3 doc4 doc5 doc7 doc8 doc9
+ foc 13 doc0 doc1 doc10 doc13 doc14 doc15 doc16 doc3 doc5 doc6 doc7 doc8 doc9
+-formatiuni 14 doc1 doc10 doc13 doc14 doc14 doc15 doc16 doc2 doc3 doc5 doc6 doc7 doc8 doc9
++formatiuni 13 doc1 doc10 doc13 doc14 doc15 doc16 doc2 doc3 doc5 doc6 doc7 doc8 doc9
+ frica 16 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc2 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ frig 10 doc0 doc1 doc10 doc12 doc13 doc14 doc16 doc2 doc6 doc7
+ gheata 11 doc0 doc10 doc12 doc14 doc15 doc16 doc3 doc4 doc6 doc7 doc8
+@@ -690,7 +690,7 @@
+ insula 11 doc0 doc12 doc13 doc14 doc16 doc2 doc3 doc6 doc7 doc8 doc9
+ intuneric 12 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc4 doc6 doc8 doc9
+ istorie 14 doc0 doc1 doc10 doc12 doc13 doc14 doc16 doc2 doc4 doc5 doc6 doc7 doc8 doc9
+-izvor 13 doc0 doc1 doc12 doc13 doc14 doc15 doc16 doc2 doc5 doc5 doc6 doc7 doc8
++izvor 12 doc0 doc1 doc12 doc13 doc14 doc15 doc16 doc2 doc5 doc6 doc7 doc8
+ lanterna 12 doc0 doc1 doc12 doc14 doc15 doc16 doc3 doc4 doc5 doc6 doc7 doc9
+ lemne 14 doc0 doc1 doc10 doc12 doc14 doc15 doc16 doc2 doc3 doc4 doc5 doc6 doc7 doc9
+ liniste 13 doc0 doc10 doc12 doc13 doc14 doc15 doc2 doc3 doc4 doc5 doc6 doc8 doc9
+@@ -748,7 +748,7 @@
+ relaxare 14 doc0 doc1 doc12 doc13 doc14 doc15 doc16 doc2 doc3 doc4 doc6 doc7 doc8 doc9
+ rucsac 15 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc2 doc3 doc5 doc6 doc7 doc8 doc9
+ salcie 10 doc0 doc12 doc15 doc16 doc3 doc4 doc5 doc6 doc8 doc9
+-sanie 12 doc0 doc1 doc10 doc12 doc13 doc14 doc16 doc2 doc3 doc3 doc7 doc9
++sanie 11 doc0 doc1 doc10 doc12 doc13 doc14 doc16 doc2 doc3 doc7 doc9
+ sare 12 doc0 doc12 doc13 doc14 doc15 doc16 doc2 doc3 doc4 doc6 doc7 doc8
+ schi 11 doc0 doc1 doc12 doc14 doc15 doc16 doc4 doc5 doc6 doc7 doc8
+ scoici 10 doc0 doc1 doc10 doc12 doc14 doc15 doc16 doc4 doc8 doc9
+@@ -798,7 +798,7 @@
+ ancora 15 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc18 doc2 doc4 doc5 doc6 doc8 doc9
+ apa 13 doc0 doc12 doc13 doc14 doc15 doc16 doc18 doc2 doc4 doc5 doc6 doc7 doc9
+ aventura 16 doc0 doc1 doc10 doc12 doc13 doc15 doc16 doc18 doc2 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+-bani 16 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc17 doc2 doc3 doc4 doc4 doc7 doc8 doc9
++bani 15 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc17 doc2 doc3 doc4 doc7 doc8 doc9
+ barca 12 doc0 doc1 doc10 doc12 doc13 doc14 doc16 doc18 doc2 doc4 doc5 doc6
+ barcagiu 14 doc0 doc1 doc12 doc13 doc15 doc16 doc18 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ baterii 14 doc0 doc1 doc10 doc12 doc14 doc16 doc18 doc2 doc4 doc5 doc6 doc7 doc8 doc9
+@@ -807,7 +807,7 @@
+ brad 13 doc0 doc1 doc10 doc12 doc14 doc15 doc16 doc18 doc3 doc4 doc7 doc8 doc9
+ busola 13 doc0 doc10 doc12 doc13 doc15 doc16 doc18 doc2 doc3 doc4 doc6 doc7 doc9
+ cabana 12 doc0 doc10 doc12 doc13 doc15 doc16 doc18 doc4 doc5 doc6 doc7 doc8
+-cabanier 16 doc0 doc1 doc10 doc12 doc14 doc17 doc18 doc2 doc3 doc4 doc4 doc5 doc6 doc7 doc8 doc9
++cabanier 15 doc0 doc1 doc10 doc12 doc14 doc17 doc18 doc2 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ cald 13 doc0 doc1 doc10 doc13 doc14 doc15 doc16 doc18 doc2 doc3 doc5 doc6 doc8
+ campie 14 doc0 doc1 doc10 doc13 doc14 doc15 doc16 doc18 doc2 doc3 doc4 doc6 doc7 doc9
+ canale 12 doc1 doc10 doc13 doc15 doc16 doc18 doc2 doc3 doc5 doc6 doc7 doc8
+@@ -823,7 +823,7 @@
+ delta 14 doc0 doc1 doc12 doc13 doc14 doc15 doc16 doc17 doc18 doc3 doc4 doc6 doc7 doc9
+ dezvoltare 17 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc17 doc18 doc2 doc3 doc4 doc5 doc6 doc7 doc9
+ dig 11 doc0 doc1 doc10 doc12 doc14 doc16 doc18 doc2 doc3 doc7 doc9
+-distractie 15 doc0 doc1 doc10 doc12 doc14 doc16 doc17 doc18 doc2 doc3 doc5 doc6 doc7 doc8 doc9
++distractie 14 doc0 doc1 doc10 doc12 doc14 doc16 doc17 doc18 doc2 doc5 doc6 doc7 doc8 doc9
+ drum 12 doc1 doc12 doc13 doc14 doc16 doc17 doc18 doc4 doc6 doc7 doc8 doc9
+ echipa 15 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc18 doc4 doc5 doc6 doc7 doc8 doc9
+ ecou 14 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc17 doc18 doc2 doc5 doc7 doc8 doc9
+@@ -834,7 +834,7 @@
+ floare 13 doc0 doc10 doc12 doc13 doc14 doc16 doc18 doc2 doc4 doc5 doc6 doc8 doc9
+ fluviu 16 doc0 doc1 doc10 doc12 doc13 doc14 doc16 doc17 doc18 doc2 doc3 doc4 doc5 doc7 doc8 doc9
+ foc 14 doc0 doc1 doc10 doc13 doc14 doc15 doc16 doc18 doc3 doc5 doc6 doc7 doc8 doc9
+-formatiuni 15 doc1 doc10 doc13 doc14 doc14 doc15 doc16 doc18 doc2 doc3 doc5 doc6 doc7 doc8 doc9
++formatiuni 14 doc1 doc10 doc13 doc14 doc15 doc16 doc18 doc2 doc3 doc5 doc6 doc7 doc8 doc9
+ frica 17 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc18 doc2 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ frig 12 doc0 doc1 doc10 doc12 doc13 doc14 doc16 doc17 doc18 doc2 doc6 doc7
+ gheata 13 doc0 doc10 doc12 doc14 doc15 doc16 doc17 doc18 doc3 doc4 doc6 doc7 doc8
+@@ -846,7 +846,7 @@
+ insula 13 doc0 doc12 doc13 doc14 doc16 doc17 doc18 doc2 doc3 doc6 doc7 doc8 doc9
+ intuneric 13 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc18 doc4 doc6 doc8 doc9
+ istorie 15 doc0 doc1 doc10 doc12 doc13 doc14 doc16 doc18 doc2 doc4 doc5 doc6 doc7 doc8 doc9
+-izvor 15 doc0 doc1 doc12 doc13 doc14 doc15 doc16 doc17 doc18 doc2 doc5 doc5 doc6 doc7 doc8
++izvor 14 doc0 doc1 doc12 doc13 doc14 doc15 doc16 doc17 doc18 doc2 doc5 doc6 doc7 doc8
+ lanterna 14 doc0 doc1 doc12 doc14 doc15 doc16 doc17 doc18 doc3 doc4 doc5 doc6 doc7 doc9
+ lemne 16 doc0 doc1 doc10 doc12 doc14 doc15 doc16 doc17 doc18 doc2 doc3 doc4 doc5 doc6 doc7 doc9
+ liniste 14 doc0 doc10 doc12 doc13 doc14 doc15 doc18 doc2 doc3 doc4 doc5 doc6 doc8 doc9
+@@ -904,7 +904,7 @@
+ relaxare 15 doc0 doc1 doc12 doc13 doc14 doc15 doc16 doc18 doc2 doc3 doc4 doc6 doc7 doc8 doc9
+ rucsac 16 doc0 doc1 doc10 doc12 doc13 doc14 doc15 doc16 doc18 doc2 doc3 doc5 doc6 doc7 doc8 doc9
+ salcie 10 doc0 doc12 doc15 doc16 doc3 doc4 doc5 doc6 doc8 doc9
+-sanie 14 doc0 doc1 doc10 doc12 doc13 doc14 doc16 doc17 doc18 doc2 doc3 doc3 doc7 doc9
++sanie 13 doc0 doc1 doc10 doc12 doc13 doc14 doc16 doc17 doc18 doc2 doc3 doc7 doc9
+ sare 13 doc0 doc12 doc13 doc14 doc15 doc16 doc18 doc2 doc3 doc4 doc6 doc7 doc8
+ schi 13 doc0 doc1 doc12 doc14 doc15 doc16 doc17 doc18 doc4 doc5 doc6 doc7 doc8
+ scoici 12 doc0 doc1 doc10 doc12 doc14 doc15 doc16 doc17 doc18 doc4 doc8 doc9
+@@ -957,7 +957,7 @@
+ ancora 14 doc0 doc1 doc10 doc12 doc13 doc15 doc16 doc18 doc2 doc4 doc5 doc6 doc8 doc9
+ apa 14 doc0 doc12 doc13 doc15 doc16 doc18 doc19 doc2 doc20 doc4 doc5 doc6 doc7 doc9
+ aventura 18 doc0 doc1 doc10 doc12 doc13 doc15 doc16 doc18 doc19 doc2 doc21 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+-bani 17 doc0 doc1 doc10 doc12 doc13 doc15 doc16 doc17 doc19 doc2 doc21 doc3 doc4 doc4 doc7 doc8 doc9
++bani 16 doc0 doc1 doc10 doc12 doc13 doc15 doc16 doc17 doc19 doc2 doc21 doc3 doc4 doc7 doc8 doc9
+ barca 13 doc0 doc1 doc10 doc12 doc13 doc16 doc18 doc2 doc20 doc21 doc4 doc5 doc6
+ barcagiu 17 doc0 doc1 doc12 doc13 doc15 doc16 doc18 doc19 doc20 doc21 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ baterii 14 doc0 doc1 doc10 doc12 doc16 doc18 doc2 doc21 doc4 doc5 doc6 doc7 doc8 doc9
+@@ -966,7 +966,7 @@
+ brad 14 doc0 doc1 doc10 doc12 doc15 doc16 doc18 doc20 doc21 doc3 doc4 doc7 doc8 doc9
+ busola 15 doc0 doc10 doc12 doc13 doc15 doc16 doc18 doc2 doc20 doc21 doc3 doc4 doc6 doc7 doc9
+ cabana 13 doc0 doc10 doc12 doc13 doc15 doc16 doc18 doc20 doc4 doc5 doc6 doc7 doc8
+-cabanier 16 doc0 doc1 doc10 doc12 doc17 doc18 doc2 doc20 doc3 doc4 doc4 doc5 doc6 doc7 doc8 doc9
++cabanier 15 doc0 doc1 doc10 doc12 doc17 doc18 doc2 doc20 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+ cald 13 doc0 doc1 doc10 doc13 doc15 doc16 doc18 doc2 doc21 doc3 doc5 doc6 doc8
+ campie 15 doc0 doc1 doc10 doc13 doc15 doc16 doc18 doc19 doc2 doc21 doc3 doc4 doc6 doc7 doc9
+ canale 13 doc1 doc10 doc13 doc15 doc16 doc18 doc19 doc2 doc3 doc5 doc6 doc7 doc8
+@@ -982,7 +982,7 @@
+ delta 14 doc0 doc1 doc12 doc13 doc15 doc16 doc17 doc18 doc20 doc3 doc4 doc6 doc7 doc9
+ dezvoltare 17 doc0 doc1 doc10 doc12 doc13 doc15 doc16 doc17 doc18 doc2 doc20 doc3 doc4 doc5 doc6 doc7 doc9
+ dig 12 doc0 doc1 doc10 doc12 doc16 doc18 doc19 doc2 doc20 doc3 doc7 doc9
+-distractie 15 doc0 doc1 doc10 doc12 doc16 doc17 doc18 doc19 doc2 doc3 doc5 doc6 doc7 doc8 doc9
++distractie 14 doc0 doc1 doc10 doc12 doc16 doc17 doc18 doc19 doc2 doc5 doc6 doc7 doc8 doc9
+ drum 14 doc1 doc12 doc13 doc16 doc17 doc18 doc19 doc20 doc21 doc4 doc6 doc7 doc8 doc9
+ echipa 15 doc0 doc1 doc10 doc12 doc13 doc15 doc16 doc18 doc19 doc4 doc5 doc6 doc7 doc8 doc9
+ ecou 16 doc1 doc10 doc12 doc13 doc15 doc16 doc17 doc18 doc19 doc2 doc20 doc21 doc5 doc7 doc8 doc9
+@@ -1005,7 +1005,7 @@
+ insula 14 doc0 doc12 doc13 doc16 doc17 doc18 doc19 doc2 doc20 doc3 doc6 doc7 doc8 doc9
+ intuneric 14 doc0 doc1 doc10 doc12 doc13 doc15 doc16 doc18 doc20 doc21 doc4 doc6 doc8 doc9
+ istorie 17 doc0 doc1 doc10 doc12 doc13 doc16 doc18 doc2 doc20 doc21 doc3 doc4 doc5 doc6 doc7 doc8 doc9
+-izvor 16 doc0 doc1 doc12 doc13 doc15 doc16 doc17 doc18 doc19 doc2 doc20 doc5 doc5 doc6 doc7 doc8
++izvor 15 doc0 doc1 doc12 doc13 doc15 doc16 doc17 doc18 doc19 doc2 doc20 doc5 doc6 doc7 doc8
+ lanterna 14 doc0 doc1 doc12 doc15 doc16 doc17 doc18 doc19 doc3 doc4 doc5 doc6 doc7 doc9
+ lemne 18 doc0 doc1 doc10 doc12 doc15 doc16 doc17 doc18 doc19 doc2 doc20 doc21 doc3 doc4 doc5 doc6 doc7 doc9
+ liniste 14 doc0 doc10 doc12 doc13 doc15 doc18 doc2 doc20 doc3 doc4 doc5 doc6 doc8 doc9
+@@ -1063,7 +1063,7 @@
+ relaxare 16 doc0 doc1 doc12 doc13 doc15 doc16 doc18 doc2 doc20 doc21 doc3 doc4 doc6 doc7 doc8 doc9
+ rucsac 16 doc0 doc1 doc10 doc12 doc13 doc15 doc16 doc18 doc2 doc21 doc3 doc5 doc6 doc7 doc8 doc9
+ salcie 13 doc0 doc12 doc15 doc16 doc19 doc20 doc21 doc3 doc4 doc5 doc6 doc8 doc9
+-sanie 14 doc0 doc1 doc10 doc12 doc13 doc16 doc17 doc18 doc2 doc20 doc3 doc3 doc7 doc9
++sanie 13 doc0 doc1 doc10 doc12 doc13 doc16 doc17 doc18 doc2 doc20 doc3 doc7 doc9
+ sare 14 doc0 doc12 doc13 doc15 doc16 doc18 doc19 doc2 doc20 doc3 doc4 doc6 doc7 doc8
+ schi 14 doc0 doc1 doc12 doc15 doc16 doc17 doc18 doc19 doc21 doc4 doc5 doc6 doc7 doc8
+ scoici 13 doc0 doc1 doc10 doc12 doc15 doc16 doc17 doc18 doc19 doc21 doc4 doc8 doc9

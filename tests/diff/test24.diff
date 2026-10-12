@@ -1,0 +1,27 @@
+--- temp.out.norm	2026-05-16 22:10:47.092152800 +0300
++++ tests/out/test24.out.norm	2026-05-16 22:10:47.102152800 +0300
+@@ -0,0 +1,24 @@
++OK
++OK
++OK
++OK
++OK
++OK
++OK
++OK
++OK
++eclipse 1 Sylens
++hunter 1 Aloy
++machine 2 Aloy Sylens
++nora 1 Aloy
++oseram 1 Erend
++outcast 1 Sylens
++rebel 1 Regalla
++seeker 1 Aloy
++shadow 1 Sylens
++tenakth 2 Kotallo Regalla
++warrior 2 Erend Kotallo
++2 Erend Kotallo
++2 Aloy Sylens
++OK
++EMPTY

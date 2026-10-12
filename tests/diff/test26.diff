@@ -1,0 +1,13 @@
+--- temp.out.norm	2026-05-16 23:26:41.092152800 +0300
++++ tests/out/test26.out.norm	2026-05-16 23:26:41.092152800 +0300
+@@ -8,8 +8,8 @@
+ OK
+ OK
+ 4 BiancaBarclay EnidSinclair WednesdayAddams XavierThorpe
+-3 WednesdayAddams EnidSinclair BiancaBarclay
+-2 WednesdayAddams WednesdayAddams
++3 WednesdayAddams BiancaBarclay EnidSinclair
++2 WednesdayAddams XavierThorpe
+ OK
+ 2 LurchAddams WednesdayAddams
+ butler 1 LurchAddams

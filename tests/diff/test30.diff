@@ -1,0 +1,17 @@
+--- temp.out.norm	2026-05-16 23:26:41.152152800 +0300
++++ tests/out/test30.out.norm	2026-05-16 23:26:41.162152800 +0300
+@@ -7,11 +7,11 @@
+ OK
+ OK
+ 4 Denji HayakawaAki MakimaSan PowerBlood
+-3 MakimaSan PowerBlood Denji
+-2 MakimaSan HayakawaAki
++3 MakimaSan Denji PowerBlood
++2 MakimaSan Denji
+ OK
+ 3 Denji HayakawaAki MakimaSan
+-4 MakimaSan PowerBlood HayakawaAki Denji
++4 MakimaSan Denji PowerBlood CosmosAngel
+ angel 1 CosmosAngel
+ blood 1 PowerBlood
+ chainsaw 1 Denji

@@ -1,0 +1,20 @@
+--- temp.out.norm	2026-05-16 23:32:11.062152800 +0300
++++ tests/out/test69.out.norm	2026-05-16 23:32:11.062152800 +0300
+@@ -20,7 +20,7 @@
+ zapada 2 f1 f6
+ 3 f1 f2 f6
+ 2 f1 f6
+-4 f1 f6 f2
++3 f1 f6 f2
+ OK
+ OK
+ OK
+@@ -96,7 +96,7 @@
+ OK
+ OK
+ OK
+-5 f4
++1 f4
+ OK
+ cabana 1 f6
+ iarna 3 f1 f2 f6

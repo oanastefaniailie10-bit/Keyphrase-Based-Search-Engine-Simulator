@@ -1,0 +1,11 @@
+--- temp.out.norm	2026-05-16 23:32:10.222152800 +0300
++++ tests/out/test28.out.norm	2026-05-16 23:32:10.222152800 +0300
+@@ -8,7 +8,7 @@
+ OK
+ 3 ArminArlert LeviAckerman MikasaAckerman
+ 3 LeviAckerman MikasaAckerman ArminArlert
+-2 ErenYeager
++1 ErenYeager
+ OK
+ 2 ErenYeager ReinerBraun
+ 2 LeviAckerman MikasaAckerman

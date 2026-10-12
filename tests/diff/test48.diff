@@ -1,0 +1,36 @@
+--- temp.out.norm	2026-05-16 23:53:21.532152800 +0300
++++ tests/out/test48.out.norm	2026-05-16 23:53:21.532152800 +0300
+@@ -5,24 +5,18 @@
+ OK
+ EMPTY
+ OK
++EXISTS
++banane 1 test
++portocale 1 test
+ OK
+-banane 2 test test
+-mere 1 test
+-mure 1 test
+-pere 1 test
+-portocale 2 test test
+ OK
+-NOT FOUND
+-banane 2 test test
++mere 1 alt
++portocale 1 alt
++struguri 1 alt
++OK
++banane 1 test
+ mere 2 alt test
+ mure 1 test
+ pere 1 test
+-portocale 3 alt test test
+-struguri 1 alt
+-OK
+-banane 3 test test test
+-mere 3 alt test test
+-mure 2 test test
+-pere 2 test test
+-portocale 3 alt test test
++portocale 1 alt
+ struguri 2 alt test

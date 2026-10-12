@@ -1,0 +1,96 @@
+--- temp.out.norm	2026-05-16 23:53:21.612152800 +0300
++++ tests/out/test52.out.norm	2026-05-16 23:53:21.622152800 +0300
+@@ -192,67 +192,11 @@
+ tulpina 1 biologie
+ vertebrate 1 biologie
+ virus 1 biologie
+-NOT FOUND
+-NOT FOUND
+-NOT FOUND
+-adaptare 1 biologie
+-albina 1 biologie
+-amfibian 1 biologie
+-animal 1 biologie
+-bacterie 1 biologie
+-biocenoza 1 biologie
+-biotop 1 biologie
+-celula 1 biologie
+-circulatie 1 biologie
+-ciuperca 1 biologie
+-clasa 1 biologie
+-clorofila 1 biologie
+-digestie 1 biologie
+-ecosistem 1 biologie
+-ereditate 1 biologie
+-evolutie 1 biologie
+-familie 1 biologie
+-floare 1 biologie
+-fotosinteza 1 biologie
+-fruct 1 biologie
+-frunza 1 biologie
+-gen 1 biologie
+-genetica 1 biologie
+-habitat 1 biologie
+-insecta 1 biologie
+-mamifer 1 biologie
+-mediu 1 biologie
+-membrana 1 biologie
+-muschi 1 biologie
+-nervos 1 biologie
+-nucleu 1 biologie
+-ordin 1 biologie
+-organ 1 biologie
+-organism 1 biologie
+-os 1 biologie
+-parazitism 1 biologie
+-pasare 1 biologie
+-peste 1 biologie
+-planta 1 biologie
+-polen 1 biologie
+-polenizare 1 biologie
+-prada 1 biologie
+-pradator 1 biologie
+-radacina 1 biologie
+-regat 1 biologie
+-reptila 1 biologie
+-respiratie 1 biologie
+-samanta 1 biologie
+-selectie 1 biologie
+-simbioza 1 biologie
+-sistem 1 biologie
+-specie 1 biologie
+-tesut 1 biologie
+-tulpina 1 biologie
+-vertebrate 1 biologie
+-virus 1 biologie
+-NOT FOUND
++OK
++OK
++OK
+ adaptare 1 biologie
++adn 1 biologie
+ albina 1 biologie
+ amfibian 1 biologie
+ animal 1 biologie
+@@ -266,6 +210,7 @@
+ clorofila 1 biologie
+ digestie 1 biologie
+ ecosistem 1 biologie
++enzima 1 biologie
+ ereditate 1 biologie
+ evolutie 1 biologie
+ familie 1 biologie
+@@ -295,6 +240,7 @@
+ polenizare 1 biologie
+ prada 1 biologie
+ pradator 1 biologie
++proteina 1 biologie
+ radacina 1 biologie
+ regat 1 biologie
+ reptila 1 biologie
+@@ -308,3 +254,5 @@
+ tulpina 1 biologie
+ vertebrate 1 biologie
+ virus 1 biologie
++OK
++EMPTY

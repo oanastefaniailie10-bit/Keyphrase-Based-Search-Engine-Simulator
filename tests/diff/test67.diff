@@ -1,0 +1,11 @@
+--- temp.out.norm	2026-05-16 23:32:11.022152800 +0300
++++ tests/out/test67.out.norm	2026-05-16 23:32:11.022152800 +0300
+@@ -5,7 +5,7 @@
+ OK
+ OK
+ 2 enescu zamfir
+-4 andra feli smiley
++3 andra feli smiley
+ 3 andra feli smiley
+ 1 enescu
+ 1 andra

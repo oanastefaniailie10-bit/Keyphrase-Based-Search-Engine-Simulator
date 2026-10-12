@@ -1,0 +1,32 @@
+--- temp.out.norm	2026-05-17 00:11:50.102152800 +0300
++++ tests/out/test39.out.norm	2026-05-17 00:11:50.112152800 +0300
+@@ -0,0 +1,29 @@
++OK
++OK
++OK
++OK
++OK
++OK
++OK
++OK
++2 Aloy Sylens
++1 Kotallo
++2 Aloy Sylens
++2 Kotallo Regalla
++1 Aloy
++eclipse 1 Sylens
++hunter 1 Aloy
++machine 2 Aloy Sylens
++nora 1 Aloy
++rebel 1 Regalla
++seeker 1 Aloy
++tenakth 2 Kotallo Regalla
++warrior 1 Kotallo
++eclipse 1 Sylens
++hunter 1 Aloy
++machine 2 Aloy Sylens
++nora 1 Aloy
++rebel 1 Regalla
++seeker 1 Aloy
++tenakth 2 Kotallo Regalla
++warrior 1 Kotallo

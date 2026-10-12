@@ -1,0 +1,20 @@
+--- temp.out.norm	2026-05-17 00:27:36.672152800 +0300
++++ tests/out/test74.out.norm	2026-05-17 00:27:36.672152800 +0300
+@@ -1,14 +1,14 @@
+ OK
+ OK
+-23 list1 list1 list1 list1 list1 list1 list1 list1 list1 list1 list1 list1 list1 list2 list2 list2 list2 list2 list2 list2 list2 list2 list2
++2 list1 list2
+ 1 list1
+ 2 list1 list2
+-3 list1 list1 list2
++2 list1 list2
+ 1 list1
+ OK
+ EMPTY
+ OK
+-4 list1 list1 list1 list1
++1 list1
+ acceleratie 1 list1
+ acustica 1 list1
+ aerodinamica 1 list1

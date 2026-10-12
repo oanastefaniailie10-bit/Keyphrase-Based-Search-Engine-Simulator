@@ -1,0 +1,13 @@
+--- temp.out.norm	2026-05-16 23:26:41.102152800 +0300
++++ tests/out/test27.out.norm	2026-05-16 23:26:41.112152800 +0300
+@@ -7,8 +7,8 @@
+ OK
+ OK
+ 3 BoydStevens EthanMatthews Victor
+-3 BoydStevens EthanMatthews BoydStevens
+-2 BoydStevens EthanMatthews
++3 BoydStevens Victor EthanMatthews
++2 BoydStevens Victor
+ OK
+ 4 BoydStevens EthanMatthews SaraMyers Victor
+ colony 3 BoydStevens EthanMatthews Victor
